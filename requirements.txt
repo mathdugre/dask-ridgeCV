@@ -1,2 +1,2 @@
-dask-glm @ git+https://github.com/mathdugre/dask-glm.git35c357715d82e5f5855691d87ec571b4e2abc61e
-dask-ml @ git+https://github.com/mathdugre/dask-ml.git@b5640cbb913954a227585cae413d89d6b48f4c0f
+dask-glm @ git+https://github.com/mathdugre/dask-glm.git@f647bb7b55a2ea01b4d283599f9fee015f07d4c1
+dask-ml @ git+https://github.com/mathdugre/dask-ml.git@cd94b6445947b18582b82810ca489db51902ccab
